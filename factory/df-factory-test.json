@@ -1,0 +1,9 @@
+{
+	"name": "df-factory-test",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e6d7c0ee-08ec-4369-8404-d0d1189ab102",
+		"tenantId": "773a9b24-3cf6-40ed-9bc2-fd9dd966a735"
+	}
+}
